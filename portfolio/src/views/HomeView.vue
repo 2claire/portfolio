@@ -4,9 +4,8 @@ import Hero from '../components/Hero.vue'
 </script>
 
 <template>
-  <main>
+  <div>
     <Hero />
     <Content />
-    
-  </main>
+  </div>
 </template>

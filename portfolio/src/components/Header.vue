@@ -1,5 +1,6 @@
 <template>
-  <div class="flex flex-col md:flex-row justify-around text-center py-6">
+    <section>
+        <div class="flex flex-col md:flex-row justify-around text-center py-6">
         <h1><span class="text-2xl">CLAIRE NJOROGE</span></h1>
         <div class="flex gap-2">
             <h1>Email:</h1>
@@ -15,7 +16,9 @@
         </div>
         
     </div>
-    
+    <hr>
+    </section>
+  
 </template>
 
 <script setup>
