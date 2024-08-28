@@ -6,7 +6,9 @@
             <div class="lg:w-[1000px] h-24 border-2 text-2xl rounded-2xl py-7 px-5">Profia Website</div>
             <div class="lg:w-[1000px] h-24 border-2 text-2xl rounded-2xl py-7 px-5">Consultancy Site</div>
         </div>
+        <hr>
     </div>
+   
 </template>
 
 <script setup>

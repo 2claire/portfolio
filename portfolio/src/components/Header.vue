@@ -13,7 +13,9 @@
             <h1>Github:</h1>
             <span>2claire</span>
         </div>
+        
     </div>
+    
 </template>
 
 <script setup>
