@@ -1,12 +1,12 @@
 <template>
   <section>
     <div class="flex flex-col sm:flex-row justify-center items-center gap-10 py-3 px-10">
-    <div><img src="../assets/media/indian.JPG" class="h-[450px] w-[450px] rounded-lg" /></div>
-    <div class="border-2 h-[450px] w-[450px] rounded-lg">
-      <h1 class="text-2xl font-bold py-4 px-6">Personal Description:</h1>
-      <p class="text-xl ">
+    <div><img src="../assets/media/indian.JPG" class="h-[450px] w-[250px] lg:w-[450px] rounded-lg" /></div>
+    <div class="border-2 w-[250px] h-[450px] lg:w-[450px] rounded-lg">
+      <h1 class="lg:text-2xl font-bold py-4 px-6">Personal Description:</h1>
+      <p class="lg:text-lg px-4 ">
         I am a passionate and versatile person.
-        My work is driven by a commitment, passion, discipline,scalability, 
+        My work is driven by commitment, passion, discipline,scalability, 
         and a keen eye for design.
         I am continuously learning and experimenting with new technologies, 
         striving to stay at the forefront of the industry.
